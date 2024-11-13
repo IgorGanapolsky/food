@@ -33,3 +33,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# History
+.history/
+.history/src/
